@@ -9,7 +9,7 @@
 | MALO | [QUBI](https://chromewebstore.google.com/detail/qubi/ghaajenddgknljmafhnojghejmfmoeba?hl=ko) | [SafeWay](https://github.com/BooGyya/safeway) |
 | :---: | :---: | :---: |
 | <img src="./github-profile-assets/malo-logo.png" alt="MALO 로고" width="180"> | <img src="./github-profile-assets/qubi-logo.png" alt="QUBI 로고" width="180"> | <img src="./github-profile-assets/safeway-logo.png" alt="SafeWay 로고" width="180"> |
-| 자연어로 입력한 투자 전략을 실행 규칙으로 변환하고, 사용자 승인 후 전략을 실행하는 서비스 | 한 문장으로 HTML 게임을 생성하고 웹에서 플레이하는 서비스. 크롬 확장 프로그램에 저장한 게임은 오프라인에서도 플레이할 수 있습니다. | 실시간 보행 신호 잔여 시간과 사용자별 이동 조건을 반영해 안전한 보행 경로를 안내하는 서비스 |
+| 자연어로 투자 전략을 만들고, 확인·승인한 규칙을 실행하는 개인 투자 전략 자동화 서비스. | 한 문장의 아이디어로 HTML 게임을 만들고, 크롬 확장 프로그램에서 오프라인으로 플레이하는 서비스. | 실시간 보행신호와 보행속도를 반영해 교통약자에게 안전한 이동 경로를 안내하는 서비스. |
 | 백엔드 · CI/CD | 프론트엔드 · 크롬 확장 프로그램 개발 | 백엔드 |
 
 ## 기술 스택
